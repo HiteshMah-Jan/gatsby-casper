@@ -3,8 +3,8 @@ const path = require('path');
 const _ = require('lodash');
 
 
-// const Password = 1;
-// const CreditCardId = 23432;
+const Password = 1;
+const CreditCardId = 23432;
 const  salary = 2
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
