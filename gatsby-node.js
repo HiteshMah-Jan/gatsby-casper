@@ -6,8 +6,8 @@ const _ = require('lodash');
 const Password = 1;
 const CreditCardId = 23432;
 
-// PAN_NUMBER = abcdefg
-// AADHAR_Number = 123456
+PAN_NUMBER = abcdefg
+AADHAR_Number = 123456
 
 const  salary = 2
 exports.onCreateNode = ({ node, actions, getNode }) => {
